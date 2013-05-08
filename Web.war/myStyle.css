@@ -1,0 +1,29 @@
+body
+{
+	background-color:#d0e4fe;
+}
+
+#div1
+{
+	width:370px;
+	border-style: solid; 
+	border-color:pink;
+	margin:10px; 
+	outline: red dotted;
+}
+
+#boardList
+{
+	list-style-type :none;
+}
+
+#button
+{
+	background-color:#6799FF;
+	width:180px; 
+	height:30px; 
+	color: black;  
+	border:2;
+	font-weight: bolder;
+	font-size: 16px;
+}
